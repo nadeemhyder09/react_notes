@@ -1,0 +1,28 @@
+{
+  "name": "react_notes",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "firebase": "^5.0.4",
+    "formik": "^0.11.11",
+    "mbox": "latest",
+    "mobx-react": "^5.2.3",
+    "mobx-react-form": "^1.34.0",
+    "react": "^16.4.1",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.4.1",
+    "react-formal": "^0.28.5",
+    "react-formal-inputs": "^2.1.1",
+    "react-scripts": "1.1.4",
+    "react-validation": "^3.0.7",
+    "react-widgets": "^4.3.2",
+    "validatorjs": "^3.14.2",
+    "yup": "^0.25.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
